@@ -57,8 +57,8 @@
     $announce ="<font color='red'>・Web参加の方は次のボタンから参加してください。</font>
     <br>　　こちらから　⇒　<a href='$ZoomURL'>ミーティングに参加</a>
     <br>
-    <br>　　ミーティングID: 845 3965 7732
-    <br>　　パスコード: semi0907
+    <br>　　ミーティングID: 859 4210 2042
+    <br>　　パスコード: semi1028
     <br>
     <br>・<font color='green'>Zoomについて、必ず以下を参照してください。</font>
     <br>　　ご確認ください　⇒　<a href='https://zoom-info.herokuapp.com/'>Zoomのご案内</a>";}
